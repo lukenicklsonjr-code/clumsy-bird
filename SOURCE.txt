@@ -1,0 +1,4 @@
+Clumsy Bird by Ellison Leao and contributors - GNU GPL v3 (see LICENSE).
+Original: https://github.com/ellisonleao/clumsy-bird (commit fae3d487d5102af29fb3f78431cbd45e9b83aed3).
+Source code of this modified version: https://github.com/lukenicklsonjr-code/clumsy-bird
+Changes: removed search-engine verification, social and keyword meta tags (including other games' names).
